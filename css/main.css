@@ -1,3 +1,31 @@
 p{
   color:#000000;
 }
+
+body{
+  margin:0;
+}
+
+nav{
+  height: 40px;
+}
+
+nav ul{
+  height: 100%;
+  width: 100vw;
+  background-color: #314758;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav ul li{
+  display: inline;
+  padding: 10px 15px;
+}
+
+nav ul li a{
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
